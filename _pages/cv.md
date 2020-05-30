@@ -44,7 +44,7 @@ Technical Skills
 
 Publications
 ======
-_Maybe something will show up soon_ :smile:
+_Maybe something will show up soon_ :)
 
 Languages
 ======
