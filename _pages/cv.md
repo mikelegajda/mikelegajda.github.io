@@ -30,7 +30,7 @@ _Supervisors: Prof. Renata Mansini (UniBS); Prof. David Pisinger (DTU); Dr. Ales
 Study and design of different optimization approaches to solve a real __3D Container Loading Problem__. The solution I developed helped the company to increase amount of space used inside their containers during shipment and completely eliminate the risks related to bad load balance of the truck.
 The solution I developed was accepted to be part of the __17th ESICUP international meeting__ on Cutting and Packing problems and in the meanwhile I'm working on a __scientific paper__ to publish together with the aforementioned supervisors.
 
-* 2020: Treatment and analysis of patients undergoing bone marrow transplantation<br/>
+* 2020: Effective treatment and nutrition in patients undergoing allogeneic hematopoietic stem cell transplantation<br/>
 _Supervisor: Dr. Morello Enrico (Civil Hospital of Brescia)_<br/>
 During this course I've worked in collaboration with Dr. Enrico Morello, head of the bone marrow transplant department at the civil Hospital of Brescia. The collaboration produced satisfying results and around May/June 2020 we will submit a paper for __publication in a medical journal__. My main goal was to analyze clinical data related to bone marrow transplant using R in order to confirm or deny initial hypothesis.
 
