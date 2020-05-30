@@ -17,43 +17,33 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019 - Present: R&D Software Engineer | Optimization Specialist @ Italmondo, Milan (IT)
+  The collaboration with the company started during the development of my thesis project which was commissioned by Italmondo itself. After the positive results obtained by my algorithm the company and I are continuing to work in implementing and improving the actual solution.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2017 - 2018: Assistant Software Engineer @ A.M. Automatic Machines, Brescia (IT)
+Company that operates in the area of vending machines. This was a part-time activity while continuing my studies. My job was to study and design better workflow experience for important procedures incorporated into company's proprietary CRM.
   
-Skills
+Technical Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+  * Good knowledge: Java, Python, R, C, JavaScript, SQL
+  * Decent knowledge: PHP, Matlab
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+*Coming soon*
+  <!-- <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+  Languages
+  ======
+  * Native language: Italian & Albanian
+  * Fluent in: English
+
